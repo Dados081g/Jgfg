@@ -20,7 +20,7 @@ from aiogram.types import (
 )
 
 # ───────────────────────── НАСТРОЙКИ ─────────────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN", "PASTE_YOUR_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8342142309:AAHnGHfqM5M0_PI1WjJkfscvRk-yZemM8Ic")
 
 BASE_DIR = Path(__file__).parent / "banners"
 BANNERS = {
