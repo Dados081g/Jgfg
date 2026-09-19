@@ -25,7 +25,7 @@ logging.basicConfig(level=logging.INFO)
 
 # ======================= НАСТРОЙКИ (заполните перед запуском) =======================
 
-BOT_TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"          # токен от @BotFather
+BOT_TOKEN = "8342142309:AAHnGHfqM5M0_PI1WjJkfscvRk-yZemM8Ic"          # токен от @BotFather
 ADMIN_ID = 123456789                    # ваш user_id (узнать у @userinfobot)
 ADMIN_PASSWORD = "maksumtop1"           # пароль входа в /admin
 
